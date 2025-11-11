@@ -17,10 +17,7 @@
 
 ## 🌐 Let's Connect
 - 🌍 [LinkedIn](https://in.linkedin.com/in/arun-kumar-172b57220?trk=people-guest_people_search-card)  
-- 💼 [Portfolio / Personal Website](https://aruninf.github.io/)  
 - 📬 Email: arunk@infinitysoftsystems.com  
-- 🔎 Just Google: **"Arun Android"**
-
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
