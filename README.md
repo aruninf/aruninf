@@ -1,15 +1,15 @@
 # 👋 Hi there, I'm Arun
 
-🚀 **Mobile Technical Lead | Senior Flutter Developer**  
+🚀 **Mobile Technical Lead | Senior Mobile App Developer**  
 🏢 **Infinity Soft Systems** — [www.infinitysoftsystems.com](https://www.infinitysoftsystems.com)  
 🔧 Passionate about crafting scalable, high-performance mobile apps with elegant UI/UX.  
-📱 Expert in Flutter, Firebase, and mobile architecture best practices.
+📱 Expert in React-Native, Flutter, Firebase, and mobile architecture best practices.
 
 ---
 
 ## 🛠️ Tech Stack
-- **Languages**: Dart, Java, Kotlin, Swift, Objective-C, JavaScript, Python  
-- **Frameworks & Tools**: Flutter, Firebase, GetX, Riverpod, Bloc, Django (Basic)  
+- **Languages**: Dart, Java, Kotlin, Swift, Objective-C, JavaScript, Typescript, Python  
+- **Frameworks & Tools**: React-Native, Flutter, Firebase, GetX, Riverpod, Bloc, Django (Basic)  
 - **App Distribution**: Play Store, App Store  
 - **Other Skills**: API Integration, Mobile CI/CD, App Theming, Modular Architecture, Clean Code Practices
 
