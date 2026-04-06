@@ -16,7 +16,7 @@
 ---
 
 ## 🌐 Let's Connect
-- 🌍 [LinkedIn](https://in.linkedin.com/in/arun-kumar-172b57220?trk=people-guest_people_search-card)  
+- 🌍 [Github Page](https://aruninf.github.io/)  
 - 📬 Email: arunk@infinitysoftsystems.com  
 ---
 
