@@ -42,7 +42,6 @@ Every project runs on an **AI-first workflow** using Claude Code, Cursor, Codex,
 | **Cursor IDE** | AI-first editor | Codebase-aware completions across large Flutter & React projects |
 | **GitHub Copilot** | Inline pair programmer | Real-time suggestions across mobile, backend, and web |
 | **Codex** | Autonomous code agent | Background task runner — generates features while you review |
-| **Windsurf** | Unlimited AI IDE | Rapid prototyping and MVP builds without token cost pressure |
 | **Gemini CLI** | Google's terminal agent | Fast queries and code generation with generous free tier |
 
 ---
