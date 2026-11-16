@@ -8,6 +8,10 @@ Play, for clients across Australia, New Zealand and Europe.
 
 []() · [Portfolio](https://aruninf.github.io) · [LinkedIn](https://linkedin.com/in/arun-kumar-172b57220)
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aruninf&theme=default&hide_border=true" alt="Contribution streak and totals" width="600">
+</p>
+
 ---
 
 ## Shipped Apps
@@ -45,14 +49,6 @@ More at [aruninf.github.io](https://aruninf.github.io).
 | **Backend** | Firebase, Supabase, Django REST |
 | **CI/CD** | GitHub Actions, Fastlane, Firebase App Distribution |
 | **AI-assisted dev** | Claude Code, Cursor, Codex, Copilot — part of the daily workflow |
-
----
-
-## Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aruninf&theme=default&hide_border=true" alt="Contribution streak and totals" width="640">
-</p>
 
 ---
 
