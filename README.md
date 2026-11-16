@@ -6,7 +6,7 @@ I build and ship Flutter, React Native and native iOS/Android apps, and lead the
 mobile team that delivers them. **99+ apps shipped** to the App Store and Google
 Play, for clients across Australia, New Zealand and Europe.
 
-[]() · [Portfolio](https://aruninf.github.io) · [LinkedIn](https://linkedin.com/in/arun-kumar-172b57220)
+[Portfolio](https://aruninf.github.io) · [LinkedIn](https://linkedin.com/in/arun-kumar-172b57220)
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=aruninf&theme=default&hide_border=true" alt="Contribution streak and totals" width="600">

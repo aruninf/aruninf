@@ -8,8 +8,7 @@ Durable facts only. Update when the facts change; do not add task status.
 - Role: Team Lead, Mobile Engineering at **Infinity Soft Systems**
 - Background: Senior cross-platform mobile developer who also does project management
 - Timezone: IST (UTC+5:30)
-- Email: 
-- Manager: Akash Verma — 
+- Manager: Akash Verma
 - Portfolio: https://aruninf.github.io
 - LinkedIn: https://linkedin.com/in/arun-kumar-172b57220
 
@@ -53,12 +52,12 @@ planning, estimate or client-communication question in the next.
 He leads a small mobile team. He reviews every PR, owns project management and
 carries the TL responsibilities (planning, assignment, unblocking, quality, release).
 
-| Person | Role | Current focus | Email |
-| --- | --- | --- | --- |
-| Arun Kumar | Team Lead | PR review for all work, project management, delivery |  |
-| Ram Niwas | Senior Flutter developer | Jobwish |  |
-| Saurav Kumar | React Native developer | Life Made Easier |  |
-| Gurbir Singh | QA | Tests every mobile app, all projects |  |
+| Person | Role | Current focus |
+| --- | --- | --- |
+| Arun Kumar | Team Lead | PR review for all work, project management, delivery |
+| Ram Niwas | Senior Flutter developer | Jobwish |
+| Saurav Kumar | React Native developer | Life Made Easier |
+| Gurbir Singh | QA | Tests every mobile app, all projects |
 
 ## How agents should help
 
