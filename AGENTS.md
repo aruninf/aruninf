@@ -47,6 +47,18 @@ planning, estimate or client-communication question in the next.
   App Store / Play Store submission.
 - **Post-launch:** support, fixes and iteration on live apps.
 
+## Team
+
+He leads a small mobile team. He reviews every PR, owns project management and
+carries the TL responsibilities (planning, assignment, unblocking, quality, release).
+
+| Person | Role | Current focus | Email |
+| --- | --- | --- | --- |
+| Arun Kumar | Team Lead | PR review for all work, project management, delivery |  |
+| Ram Niwas | Senior Flutter developer | Jobwish |  |
+| Saurav Kumar | React Native developer | Life Made Easier |  |
+| Gurbir Singh | QA | Testing across projects |  |
+
 ## How agents should help
 
 - For code: be precise and production-minded. Match the project's existing
@@ -57,6 +69,8 @@ planning, estimate or client-communication question in the next.
   assuming.
 - When a request is ambiguous, state your assumption briefly and proceed, unless
   the wrong guess would be costly.
+- Use the team table when context matters (who owns a task, who to address a review
+  or QA note to). Don't guess assignments — ask if unsure.
 
 ## Working preferences for agents
 
