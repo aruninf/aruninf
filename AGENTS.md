@@ -57,7 +57,7 @@ carries the TL responsibilities (planning, assignment, unblocking, quality, rele
 | Arun Kumar | Team Lead | PR review for all work, project management, delivery |  |
 | Ram Niwas | Senior Flutter developer | Jobwish |  |
 | Saurav Kumar | React Native developer | Life Made Easier |  |
-| Gurbir Singh | QA | Testing across projects |  |
+| Gurbir Singh | QA | Tests every mobile app, all projects |  |
 
 ## How agents should help
 
