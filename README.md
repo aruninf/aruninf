@@ -48,6 +48,14 @@ More at [aruninf.github.io](https://aruninf.github.io).
 
 ---
 
+## Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aruninf&theme=default&hide_border=true" alt="Contribution streak and totals" width="640">
+</p>
+
+---
+
 ## Team
 
 I lead a four-person mobile team at Infinity Soft Systems — a senior Flutter
