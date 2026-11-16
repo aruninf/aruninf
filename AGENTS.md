@@ -9,6 +9,7 @@ Durable facts only. Update when the facts change; do not add task status.
 - Background: Senior cross-platform mobile developer who also does project management
 - Timezone: IST (UTC+5:30)
 - Email: 
+- Manager: Akash Verma — 
 - Portfolio: https://aruninf.github.io
 - LinkedIn: https://linkedin.com/in/arun-kumar-172b57220
 
