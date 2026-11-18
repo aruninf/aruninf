@@ -49,7 +49,7 @@ planning, estimate or client-communication question in the next.
 
 ## Team
 
-He leads a small mobile team. He reviews every PR, owns project management and
+He leads the **Mobile Team** at Infinity Soft Systems. He reviews every PR, owns project management and
 carries the TL responsibilities (planning, assignment, unblocking, quality, release).
 
 | Person | Role | Current focus |
